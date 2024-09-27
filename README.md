@@ -1,4 +1,4 @@
-Title: Sentiment Analysis on Research Papers
+Sentiment Analysis on Research Papers
 
 Objective: The project aims to analyze the sentiment of research papers using machine learning techniques. The primary goal is to classify the sentiment of the text into categories such as positive, negative, or neutral, which can help in understanding the overall sentiment trends in academic literature.
 Project Components
